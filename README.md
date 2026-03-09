@@ -31,3 +31,6 @@ Khyati Sharma
 
 ## Purpose
 This project was created as part of an Android development assignment to practice building basic mobile applications using Android Studio.
+![IMG-20260309-WA0001](https://github.com/user-attachments/assets/6c0cfc0e-d0ec-46e4-b4e0-fcc017199423)
+![IMG-20260309-WA0002](https://github.com/user-attachments/assets/219dda1a-ad54-492d-a5c0-e587a72e2dc1)
+
